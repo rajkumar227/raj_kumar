@@ -1,3 +1,6 @@
 hadoop is a framework
 stores data 
 process data
+hive is a warehouse in hadoop
+sqoop is the retrieving language
+
