@@ -1,0 +1,2 @@
+data is collection of information
+database which store data and process the data  and we acces data 
